@@ -36,7 +36,7 @@ Este projeto apresenta um dashboard interativo desenvolvido no Power BI, com dad
 
 ## 🔍 Alguns Insights
 
-- Palmeiras lidera o ranking com 12 títulos
+- Palmeiras lidera o ranking de títulos com 12 títulos
 - Atlético-MG fez a maior pontuação do período analisado (84 pontos)
 - A pontuação média da elite é de aproximadamente 70 pts e dos rebaixados 35 pts
 - Flamengo e Palmeiras se destacam pela ótima consistência nas temporadas analisadas. Ficando no topo por todo o período analisado.
