@@ -1,10 +1,10 @@
-# 📊 Dashboard Brasileirão Série A (2020–2024)
+# Dashboard Brasileirão Série A (2020–2024)
 
 Este projeto apresenta um dashboard interativo desenvolvido no Power BI, com dados do Campeonato Brasileiro Série A entre 2020 e 2024. O objetivo foi aplicar meus conhecimentos em Power BI.
 
 ---
 
-## 🧩 Estrutura do Dashboard
+## Estrutura do Dashboard
 
 ### Página 1 — Análise por Temporada
 - Classificação completa da temporada selecionada
@@ -25,7 +25,7 @@ Este projeto apresenta um dashboard interativo desenvolvido no Power BI, com dad
 
 ---
 
-## 🛠️ Tecnologias
+## Tecnologias
 
 - Power BI (visualizações e interatividade)
 - DAX (medidas e cálculos)
@@ -34,7 +34,7 @@ Este projeto apresenta um dashboard interativo desenvolvido no Power BI, com dad
 
 ---
 
-## 🔍 Alguns Insights
+## Alguns Insights
 
 - Palmeiras lidera o ranking de títulos com 12 títulos
 - Atlético-MG fez a maior pontuação do período analisado (84 pontos)
@@ -44,7 +44,7 @@ Este projeto apresenta um dashboard interativo desenvolvido no Power BI, com dad
 
 ---
 
-## 🎮 Como Usar
+## Como Usar
 
 - Use os filtros para explorar clubes e temporadas
 - Navegue entre as páginas usando os botões inferiores
@@ -52,6 +52,6 @@ Este projeto apresenta um dashboard interativo desenvolvido no Power BI, com dad
 
 ---
 
-## 📌 Nota
+## Nota
 
 Os dados foram extraídos da ESPN e o projeto foi feito como exercício prático de aprendizado em Power BI.
