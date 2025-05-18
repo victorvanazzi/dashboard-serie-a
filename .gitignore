@@ -1,0 +1,49 @@
+# -------------------------------------
+# Python
+# -------------------------------------
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Arquivos de log e temporários
+*.log
+*.tmp
+
+# Banco de dados SQLite (gerado pelo script)
+tabela.db
+
+# -------------------------------------
+# VS Code
+# -------------------------------------
+.vscode/
+*.code-workspace
+tempCodeRunnerFile.py
+
+# -------------------------------------
+# Sistema Operacional
+# -------------------------------------
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Linux
+*~
+
+# -------------------------------------
+# Outros
+# -------------------------------------
+.env
+.venv/
+venv/
+
+# -------------------------------------
+# Diretórios específicos
+# -------------------------------------
+data/
