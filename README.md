@@ -1,19 +1,20 @@
-# 📊 Dashboard Brasileirão Série A (2020–2024)
+# Dashboard Brasileirão Série A (2020–2024)
 
-![Dashboard - Panorama do Campeonato](link-da-imagem-aqui)
 
 Este projeto apresenta um dashboard interativo desenvolvido no Power BI, com dados do Campeonato Brasileiro Série A entre 2020 e 2024. O objetivo foi aplicar meus conhecimentos em DAX, modelagem de dados e design de visualizações.
 
 ---
 
-## 🧩 Estrutura do Dashboard
+## Estrutura do Dashboard
 
 ### Página 1 — Análise por Temporada
+![Dashboard - Temporadas do Campeonato](dashboard/1_Temporadas.png)
 - Classificação completa da temporada selecionada
 - Destaques dos clubes (melhor ataque, pior defesa, campeão, melhor saldo de gols)
 - Destaques dos jogadores (artilheiro, líder de assistências, participação em gols)
 
 ### Página 2 — Panorama Geral (2020–2024)
+![Dashboard - Histórico do Campeonato](dashboard/2_Histórico.png)
 - Ranking de títulos por clube
 - Comparativo de pontuação: elite vs rebaixamento
 - Evolução da colocação e pontuação dos times
@@ -21,7 +22,7 @@ Este projeto apresenta um dashboard interativo desenvolvido no Power BI, com dad
 
 ---
 
-## 🛠️ Tecnologias
+## Tecnologias
 
 - Power BI (visualizações e interatividade)
 - DAX (medidas e cálculos)
@@ -30,7 +31,7 @@ Este projeto apresenta um dashboard interativo desenvolvido no Power BI, com dad
 
 ---
 
-## 🔍 Alguns Insights
+## Alguns Insights
 
 - Palmeiras lidera o ranking com 12 títulos
 - Atlético-MG fez a maior pontuação do período analisado (84 pontos)
@@ -40,7 +41,7 @@ Este projeto apresenta um dashboard interativo desenvolvido no Power BI, com dad
 
 ---
 
-## 🎮 Como Usar
+## Como Usar
 
 - Use os filtros para explorar clubes e temporadas
 - Navegue entre as páginas usando os botões inferiores
@@ -48,6 +49,6 @@ Este projeto apresenta um dashboard interativo desenvolvido no Power BI, com dad
 
 ---
 
-## 📌 Nota
+## Nota
 
 Os dados foram extraídos da ESPN e o projeto foi feito como exercício prático de aprendizado em Power BI.
